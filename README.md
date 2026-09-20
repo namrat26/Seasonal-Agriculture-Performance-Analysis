@@ -10,7 +10,6 @@ Python, Pandas, NumPy, Matplotlib, Jupyter Notebook.
 
 ## Project Structure
 - `data/` – supplied agricultural dataset
-- `notebooks/` – Jupyter notebook
 - `src/` – Python analysis script
 - `outputs/` – generated summaries and charts
 
@@ -19,8 +18,6 @@ Python, Pandas, NumPy, Matplotlib, Jupyter Notebook.
 pip install -r requirements.txt
 python src/seasonal_agriculture_analysis.py
 ```
-
-Or open the notebook in `notebooks/`.
 
 ## Analysis
 1. Data exploration
