@@ -11,7 +11,6 @@ Python, Pandas, NumPy, Matplotlib, Jupyter Notebook.
 ## Project Structure
 - `data/` – supplied agricultural dataset
 - `src/` – Python analysis script
-- `outputs/` – generated summaries and charts
 
 ## Run
 ```bash
